@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,UACE,WAAY,CACZ,cAAe,CAChB,QAGC,UAAW,CACX,WAAY","file":"main.540d4e1b.chunk.css","sourcesContent":[".selected {\n  color: green;\n  font-size: 36px;\n}\n\n.button {\n  width: 40px;\n  height: 40px;\n}\n"]}
